@@ -1,15 +1,18 @@
 Hi, I’m Omar 👋  
-Frontend Developer & Software Engineering Student
+Frontend Developer & Software Engineering Student  
 
 I build responsive web applications using React, JavaScript, and modern UI frameworks.
 
 🔹 Featured Projects:
-- NexaServe – AI-powered IT support platform  
-- Multi-tenant E-commerce Platform  
-- Order Management System  
+- WorkSnap (VS Code Extension) – Workspace management tool to quickly switch between development environments  
+- NexaServe – AI-powered IT support platform (Private - available on request)
+- Multi-tenant E-commerce Platform (Private - available on request)
+- Order Management System (Private - available on request)
+
+
 
 🔹 Tech Stack:
-React, JavaScript, TypeScript, Node.js, Tailwind CSS, REST APIs  
+React, JavaScript, TypeScript, Node.js, Tailwind CSS, Tailwind CSS, REST APIs  
 
 🔹 Portfolio:
 https://personal-profolio-git-main-omar-afnans-projects.vercel.app/
@@ -26,8 +29,7 @@ https://personal-profolio-git-main-omar-afnans-projects.vercel.app/
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omar-afnan&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omar-afnan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omar-afnan&icon=9&color=2)](https://visitcount.itsvg.in)
