@@ -1,11 +1,19 @@
-# 💫 About Me:
-Web Development & Design:<br>I worked on various web projects, focusing on designing responsive websites using CSS media queries and adding interactive features like toggle menus. I also experimented with tools like Wireframe.cc to create wireframes and even integrated Discord and YouTube into prototypes for added functionality.<br><br>Machine Learning Foundations:<br>I began exploring machine learning, diving into foundational models like regression, classification, decision trees, and SVM. Along the way, I learned about Random Forests and data selection techniques, building a solid base for future work in this field.<br><br>Software Engineering & Project Management:<br>I developed detailed use case diagrams for projects like the Cross-Country Cycling Callout Scheme (C4S), tackling complex workflows such as assigning technicians, managing payment systems, and handling bike breakdowns. I also picked up tools like Visual Paradigm to enhance my project management skills and streamline planning.<br><br>Creative Ventures:<br>I spent some time brainstorming ideas for a BMTH-inspired fanzine . While the project evolved, it was a great opportunity to blend creativity with technical skills, focusing on features like  album, history , music  insights.<br><br>Leadership & Collaboration:<br>Being a natural team leader, I took pride in guiding discussions, aligning team efforts, and delivering results. Whether it was software tasks or creative projects, I focused on collaboration and attention to detail to ensure success.<br><br>Personal Growth:<br>I faced challenges like debugging tricky website styling issues, experimenting with project management tools, and diving into new technologies like OpenCV. These experiences pushed me to adapt, learn, and continually improve my technical and problem-solving skills.
+Hi, I’m Omar 👋  
+Frontend Developer & Software Engineering Student
 
+I build responsive web applications using React, JavaScript, and modern UI frameworks.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syed_omar12) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/syedomar11) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-omar-afnan-b36719260/)
+🔹 Featured Projects:
+- NexaServe – AI-powered IT support platform  
+- Multi-tenant E-commerce Platform  
+- Order Management System  
+
+🔹 Tech Stack:
+React, JavaScript, TypeScript, Node.js, Tailwind CSS, REST APIs  
+
+🔹 Portfolio:
+https://personal-profolio-git-main-omar-afnans-projects.vercel.app/
+
 
 
 # 💻 Tech Stack:
@@ -24,4 +32,4 @@ Web Development & Design:<br>I worked on various web projects, focusing on desig
 ---
 [![](https://visitcount.itsvg.in/api?id=omar-afnan&icon=9&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
