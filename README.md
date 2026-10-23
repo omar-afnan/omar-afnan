@@ -4,10 +4,10 @@ Frontend Developer & Software Engineering Student
 I build responsive web applications using React, JavaScript, and modern UI frameworks.
 
 🔹 Featured Projects:
-- WorkSnap (VS Code Extension) – Workspace management tool to quickly switch between development environments  
-- NexaServe – AI-powered IT support platform (Private - available on request)
-- Multi-tenant E-commerce Platform (Private - available on request)
-- Order Management System (Private - available on request)
+- WorkSnap (VS Code Extension)  Workspace management tool to quickly switch between development environments  
+- NexaServev2 (researchPaper)  AI-powered IT support platform (https://ijasit.org/index.php/home/article/view/42)
+- Multi-tenant E-commerce Platform (Private  available on request)
+- Order Management System (Private  available on request)
 
 
 
